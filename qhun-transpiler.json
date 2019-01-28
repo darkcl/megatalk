@@ -1,0 +1,15 @@
+{
+  "name": "Megatalk",
+  "version": "1.0.0",
+  "author": "darkcl",
+  "licence": "MIT",
+  "description": "Talk and you will not explode",
+  "stripOutDir": "src",
+  "target": "wow",
+  "tsconfig": "./tsconfig.json",
+  "config": {
+    "staticReflection": 7,
+    "visibleName": "Megatalk",
+    "interface": 80000
+  }
+}

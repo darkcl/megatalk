@@ -1,0 +1,12 @@
+{
+  "name": "megatalk",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "qhun-transpiler -p ./qhun-transpiler.json"
+  },
+  "dependencies": {
+    "@wartoshika/wow-qhun-core-ts": "^0.3.0"
+  }
+}
